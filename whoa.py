@@ -4,3 +4,4 @@ def burp(food):
     else:
         return f"How delectable is this {food}, and no effect on my gut."
     
+    
